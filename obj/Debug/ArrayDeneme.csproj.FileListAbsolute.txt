@@ -1,0 +1,8 @@
+C:\Users\Tunca\source\repos\ArrayDeneme\bin\Debug\ArrayDeneme.exe.config
+C:\Users\Tunca\source\repos\ArrayDeneme\bin\Debug\ArrayDeneme.exe
+C:\Users\Tunca\source\repos\ArrayDeneme\bin\Debug\ArrayDeneme.pdb
+C:\Users\Tunca\source\repos\ArrayDeneme\obj\Debug\ArrayDeneme.csproj.AssemblyReference.cache
+C:\Users\Tunca\source\repos\ArrayDeneme\obj\Debug\ArrayDeneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tunca\source\repos\ArrayDeneme\obj\Debug\ArrayDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Tunca\source\repos\ArrayDeneme\obj\Debug\ArrayDeneme.exe
+C:\Users\Tunca\source\repos\ArrayDeneme\obj\Debug\ArrayDeneme.pdb
